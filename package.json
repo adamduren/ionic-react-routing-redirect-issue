@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@ionic/react": "4.11.10",
-    "@ionic/react-router": "4.11.10",
+    "@ionic/react": "4.11.5",
+    "@ionic/react-router": "4.11.5",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^8.0.3",
