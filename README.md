@@ -1,5 +1,8 @@
 # Ionic Tabs Navigation Issue
 
+## Demo
+![Tabs Issue](./tab-issue.gif)
+
 ## Summary
 If a tab has it's own sub-navigation and there is a redirect defined for the root tab to default to a page within that tabs navigation stack it should always show the page of the default page when switching tabs assuming you have not navigated to another page within that tab.
 
